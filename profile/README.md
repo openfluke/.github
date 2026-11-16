@@ -33,6 +33,7 @@ Open-source **Go AI / ML** — neural engines, GPU backends, and tooling.
 
 - **Feature book:** [openfluke.github.io/welvet](https://openfluke.github.io/welvet/)
 - Site: [openfluke.com](https://openfluke.com) · [Welvet book on site](https://openfluke.com/book)
+- X: [@Openfluke](https://x.com/Openfluke)
 - Org: [github.com/openfluke](https://github.com/openfluke)
 - Pages hub: [openfluke.github.io](https://openfluke.github.io/)
 
