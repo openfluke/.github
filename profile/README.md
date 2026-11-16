@@ -6,6 +6,8 @@ Open-source **Go AI / ML** — neural engines, GPU backends, and tooling.
 
 **[Welvet](https://github.com/openfluke/welvet)** — Go AI engine: layers, quants / k-quants, and backends (CPU SIMD · WebGPU · CUDA · Metal · MLX · Vulkan · ROCm · QNN).
 
+**📚 [Welvet feature book](https://openfluke.github.io/welvet/)** — why/what for every package, with runnable Go examples ([openfluke.github.io](https://openfluke.github.io/)).
+
 | Repo | Role |
 |------|------|
 | [welvet](https://github.com/openfluke/welvet) | Go engine |
@@ -29,8 +31,10 @@ Open-source **Go AI / ML** — neural engines, GPU backends, and tooling.
 
 ## Links
 
-- Site: [openfluke.com](https://openfluke.com)
+- **Feature book:** [openfluke.github.io/welvet](https://openfluke.github.io/welvet/)
+- Site: [openfluke.com](https://openfluke.com) · [Welvet book on site](https://openfluke.com/book)
 - Org: [github.com/openfluke](https://github.com/openfluke)
+- Pages hub: [openfluke.github.io](https://openfluke.github.io/)
 
 ```bash
 go get github.com/openfluke/welvet@latest
